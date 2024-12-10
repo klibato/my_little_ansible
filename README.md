@@ -79,8 +79,6 @@ status=CHANGED
 Le programme est conçu pour être idempotent. Par exemple :
 - Si un paquet est déjà installé, il ne sera pas réinstallé.
 - Si un fichier est déjà à jour, il ne sera pas recopié.
-## Contribuer
-Les contributions sont les bienvenues ! Pour toute amélioration ou correction
 de bugs, merci de soumettre une **pull request**.
 ---
 ## Auteurs
