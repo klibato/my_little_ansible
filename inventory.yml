@@ -1,0 +1,6 @@
+hosts:
+  localhost:
+    ssh_address: 127.0.0.1
+    ssh_port: 2222
+    ssh_user: testuser
+    ssh_password: root

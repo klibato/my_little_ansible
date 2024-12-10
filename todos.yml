@@ -1,0 +1,15 @@
+- module: apt
+  params:
+    name: nginx
+    state: present
+
+- module: command
+  params:
+    command: echo "Hello, World!" > /tmp/hello_world.txt
+    shell: /bin/bash
+
+- module: copy
+  params:
+    src: ./testfile.txt
+    dest: /tmp/testfile.txt
+    backup: true
