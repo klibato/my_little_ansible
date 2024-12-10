@@ -1,4 +1,3 @@
-MyLittleAnsible - README
 ## Description
 MyLittleAnsible est un outil d'automatisation inspiré d'Ansible. Il permet
 d'exécuter des tâches déclarées dans un fichier YAML (`todos.yml`) sur des
