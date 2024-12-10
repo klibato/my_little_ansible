@@ -80,7 +80,6 @@ Le programme est conçu pour être idempotent. Par exemple :
 - Si un paquet est déjà installé, il ne sera pas réinstallé.
 - Si un fichier est déjà à jour, il ne sera pas recopié.
 de bugs, merci de soumettre une **pull request**.
----
 ## Auteurs
 - **Hamza El Marga** - Développeur principal
 - Inspiré par l'outil Ansible
