@@ -63,9 +63,9 @@ python mla.py -f todos.yml -i inventory.yml
 ```yaml
 hosts:
  localhost:
- ssh_address: 127.0.0.1
- ssh_port: 22
- ssh_user: hamza
+ ssh_address: your_adress
+ ssh_port: uour_port
+ ssh_user: your_user
  ssh_password: your_password
 ```
 ### Résultat attendu
